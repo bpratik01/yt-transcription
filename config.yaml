@@ -1,0 +1,7 @@
+save_path: "./downloaded_audio" 
+
+
+channel_link: "https://www.youtube.com/@StarTalk/videos"  
+
+
+output_transcription_path: "./transcripts"  
